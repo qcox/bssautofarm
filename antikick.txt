@@ -1,0 +1,4 @@
+while true do
+game.Players.LocalPlayer.Character.Humanoid.Jump = true
+wait(30)
+end

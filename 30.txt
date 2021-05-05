@@ -1,0 +1,7 @@
+local ts = game:GetService("TeleportService")
+
+local p = game:GetService("Players").LocalPlayer
+
+ 
+wait(450)
+ts:Teleport(game.PlaceId, p)

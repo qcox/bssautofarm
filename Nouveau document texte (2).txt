@@ -1,0 +1,5 @@
+while true do
+local Event = game:GetService("Workspace").iffunizz["Porcelain Dipper"].ClickEvent
+Event:FireServer()
+wait()
+end
